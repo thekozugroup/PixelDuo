@@ -15,3 +15,6 @@ signing/
 captures/
 
 .kotlin/
+.a5c/
+.DS_Store
+dist/pixelduo-unfolded.png

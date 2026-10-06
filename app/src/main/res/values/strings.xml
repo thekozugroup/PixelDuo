@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Pixel Duo</string>
+    <string name="service_description">Pixel Duo uses your hinge sensor and a touch-through overlay to animate folding. A temporary screen image provides the glass effect. Images stay in memory, are discarded after the transition, and are never saved or sent. The service does not read text, perform gestures, or change your wallpaper.</string>
+    <string name="headline">A little motion.\nEvery fold.</string>
+    <string name="intro">A smooth glass animation that follows your Pixel’s hinge.</string>
+    <string name="toggle_label">Fold animation</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="active_hint">Fold your Pixel to see it.</string>
+    <string name="inactive_hint">Turn on to get started.</string>
+    <string name="battery_hint">Renders only while folding. Pauses when your screen is off or Battery Saver is on.</string>
+    <string name="battery_paused">Paused by Battery Saver.</string>
+    <string name="motion_paused">Paused because system animations are off.</string>
+    <string name="unsupported">A hinge sensor is needed. Use Pixel Duo on your Pixel Fold.</string>
+    <string name="setup_title">One quick setup</string>
+    <string name="setup_body">Allow Pixel Duo in Android’s accessibility settings to show the animation above your apps. A temporary screen image creates the glass effect. It stays on your phone and is discarded after the transition.\n\nSelect Pixel Duo, then turn on Use Pixel Duo. Return here when you’re done.</string>
+    <string name="restricted_hint">If Android blocks the switch, open Settings → Apps → Pixel Duo → ⋮ → Allow restricted settings, then return.</string>
+    <string name="open_settings">Open settings</string>
+    <string name="not_now">Not now</string>
+    <string name="setup_needed">Android permission is needed. Turn on to finish setup.</string>
+    <string name="permission_missing">Android settings could not open. Find Pixel Duo under Settings → Accessibility → Downloaded apps.</string>
+</resources>

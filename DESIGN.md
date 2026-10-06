@@ -1,0 +1,5 @@
+# Pixel Duo design
+
+Use the official Compose Material 3 Expressive theme and expressive motion scheme. All colors come from Android dynamic color; all type comes from the Material type scale and the system font. One centered column has a title, the official Lucide fold-horizontal icon, one labeled switch row and brief status text. The adaptive launcher icon uses a square outline and three equally spaced horizontal dashes down its center, with a monochrome variant for themed Pixel icons. A setup dialog opens only on first enable when Android's accessibility service permission is missing. No navigation, toolbar actions, calibration toggles or promotional content.
+
+Use 48 dp or larger touch targets, combined switch-row semantics, scrollable content at large font scales, edge-to-edge insets, light and dark themes, and a maximum content width on the unfolded display. Honor the system animator duration setting and battery saver. Fold motion follows the physical hinge; decorative idle motion is unnecessary.
